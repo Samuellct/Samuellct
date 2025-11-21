@@ -56,7 +56,7 @@ I am currently seeking my first professional role and am eager to apply this com
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=midnight-purple&hide_border=true&count_private=false&rank_icon=percentile&bg_color=00000000" />
+  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=midnight-purple&hide_border=true&count_private=false&rank_icon=percentile&hide=contribs&bg_color=00000000" />
   <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellct&theme=midnight-purple&hide_border=true&count_private=false&layout=compact&langs_count=8&bg_color=00000000" />
 </p>
 
