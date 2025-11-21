@@ -56,13 +56,13 @@ I am currently seeking my first professional role and am eager to apply this com
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&rank_icon=percentile&hide_title=false" />
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=Samuellct&theme=cobalt2&hide_border=true&hide_title=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&rank_icon=percentile&hide_title=false" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Samuellct&theme=cobalt2&hide_border=true&hide_title=false" />
 </p>
 
 <!-- Profile Summary Cards -->
 <p align="center">
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuellct&theme=cobalt2" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuellct&theme=cobalt2" />
 </p>
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellct&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" />
