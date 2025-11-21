@@ -6,30 +6,30 @@
   
   <a href="https://www.linkedin.com/in/samuel-lecomte37/">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
   </a>
   <a href="https://www.samuel-lecomte.fr/">
     <img 
-      src="https://img.shields.io/badge/Website-Website-24283B?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      src="https://img.shields.io/badge/Website-24283B?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Website" />
   </a>
   <a href="https://github.com/Samuellct">
     <img 
-      src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" />
   </a>
 </div>
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=24283B" 
+    src="https://komarev.com/ghpvc/?username=Samuellct&style=for-the-badge&color=24283B" 
     alt="Profile Views" />
 </p>
 
 
 <h2 align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl6Nzh5Y29ienZ0enk2MHU0eGlia3UyNnFjNTFjNmY2dG1tcnV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="20px" height="20px"> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl6Nzh5Y29ienZ0enk2MHU0eGlia3UyNnFjNTFjNmY2dG1tcnV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="25px" height="20px"> 
   About Me 
 </h2>
 
@@ -42,7 +42,7 @@ Outside of the lab, I enjoy tackling personal coding projects to learn new techn
 I am currently seeking my first professional role and am eager to apply this combination of scientific discipline and data expertise.
 
 <h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" height="20px">
   Tech Stack
 </h2>
 
