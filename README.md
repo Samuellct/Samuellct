@@ -56,8 +56,8 @@ I am currently seeking my first professional role and am eager to apply this com
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&rank_icon=percentile&hide_title=false&hide=contribs" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Samuellct&theme=cobalt2&hide_border=true&hide_title=false" />
+  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Samuellct&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&rank_icon=percentile&hide_title=false&hide=contribs" />
+  <img width="49%" height="200" src="https://nirzak-streak-stats.vercel.app/?user=Samuellct&theme=cobalt2&hide_border=true&hide_title=false" />
 </p>
 
 <!-- Profile Summary Cards -->
