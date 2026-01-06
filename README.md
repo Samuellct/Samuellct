@@ -56,7 +56,7 @@ I am currently seeking my first professional role and am eager to apply this com
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Samuellct/Samuellct/main/profile-summary-card-output/outrun/3-stats.svg" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuellct&theme=outrun" />
   <img width="49%" src="https://raw.githubusercontent.com/Samuellct/Samuellct/main/profile-summary-card-output/outrun/1-repos-per-language.svg" />
 </p>
 
