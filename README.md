@@ -56,8 +56,8 @@ I am currently seeking my first professional role and am eager to apply this com
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img width="49%" height="200" src="https://github-readme-stats-lilac-seven-51.vercel.app/api?username=Samuellct&theme=midnight-purple&hide_border=true&rank_icon=percentile&bg_color=00000000&count_private=true" />
-  <img width="49%" height="200" src="https://github-readme-stats-lilac-seven-51.vercel.app/api/top-langs/?username=Samuellct&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&count_private=true" />
+  <img width="49%" src="https://raw.githubusercontent.com/Samuellct/Samuellct/main/profile-summary-card-output/outrun/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Samuellct/Samuellct/main/profile-summary-card-output/outrun/1-repos-per-language.svg" />
 </p>
 
 <!-- Profile Summary Cards -->
