@@ -51,7 +51,7 @@ I am currently seeking my first professional role and am eager to apply this com
   Code
 </h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=4f68a8) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <h3 align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVvcGQ1Zzlsa2Vobmk5dGd0bmdmNzkxcTQ4eGg3Z3k4eXptejQyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UXkwYSJtrt75Ihckyf/giphy.gif" width="25px" height="20px">
