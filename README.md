@@ -72,7 +72,7 @@ I am currently seeking my first professional role and am eager to apply this com
   DevOps
 </h3>
 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVvcGQ1Zzlsa2Vobmk5dGd0bmdmNzkxcTQ4eGg3Z3k4eXptejQyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UXkwYSJtrt75Ihckyf/giphy.gif" width="25px" height="20px">
