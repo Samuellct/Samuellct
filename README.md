@@ -37,7 +37,7 @@ My name is Samuel, I recently graduated with a Master's Degree in fundamental ph
 
 My professional experience comes from two Master's internships in particle physics research, which helped me build strong analytical rigor and quantitative problem-solving abilities. 
 
-Outside of the lab, I enjoy tackling personal coding projects to learn new technologies like TypeScript, PostgreSQL, Tailwind, and more. 
+Outside of the lab, I enjoy tackling personal coding projects to learn new technologies like TypeScript, PostgreSQL, Cloudflare, and more. 
 
 I am currently seeking my first professional role and am eager to apply this combination of scientific discipline and data expertise.
 
